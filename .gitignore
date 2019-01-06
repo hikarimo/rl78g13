@@ -1,0 +1,6 @@
+DefaultBuild/
+*.mtud
+*.bak
+*.org
+*.exe
+tags
